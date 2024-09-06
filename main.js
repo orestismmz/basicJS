@@ -23,3 +23,6 @@ let rectangle = {
   height: 10,
 };
 console.log(getRectangleArea(rectangle.width, rectangle.height));
+
+//3.
+// ▪ Create a function that takes speed and time as 2 parameters and calculates and returns the distance. Use the function to test that it works by using the 'log' again. Print out "You have travelled *x* km" where *x* is replaced by the result from the function.
